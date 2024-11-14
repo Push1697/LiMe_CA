@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LiME ~ Linux Memory Extractor
 A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android. This makes LiME unique as it is the first tool that allows for full memory captures on Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.
 
@@ -109,3 +110,6 @@ Note that only the RAM file is compressed. The digest file is not compressed, an
 ## Presentation <a name="present"/>
 LiME was first presented at Shmoocon 2012 by Joe Sylve.  
 Youtube~ <a href="https://www.youtube.com/watch?v=oWkOyphlmM8">Android Mind Reading: Memory Acquisition and Analysis with DMD and Volatility</a>
+=======
+# LiMe
+>>>>>>> 6953df6861a951255997f33a2648c6fdd2898936
